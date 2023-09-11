@@ -1,4 +1,4 @@
 # Fully-Working-Calculator-with-JS
 Link-https://fully-working-calculator-with-js.vercel.app/
 
-Created a fully working Calculator utilising HTML, CSS, JavaScript:
+Developed a fully functional calculator application using a combination of web technologies, including HTML, CSS, and JavaScript. 
